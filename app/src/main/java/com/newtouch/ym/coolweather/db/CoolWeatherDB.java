@@ -1,4 +1,4 @@
-package com.newtouch.ym.coolweather;
+package com.newtouch.ym.coolweather.db;
 
 import android.content.ContentValues;
 import android.content.Context;

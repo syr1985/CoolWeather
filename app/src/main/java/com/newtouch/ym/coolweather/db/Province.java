@@ -1,4 +1,4 @@
-package com.newtouch.ym.coolweather;
+package com.newtouch.ym.coolweather.db;
 
 /**
  * Created by ym on 2016/10/13.
